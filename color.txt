@@ -1,5 +1,9 @@
 aliceblue
-beige
-blueviolet
-deepskyblue
-hotpink
+azure
+cyan
+dodgerblue
+darkmagenta
+deeppink
+fuchsia
+indigo
+deeppink
