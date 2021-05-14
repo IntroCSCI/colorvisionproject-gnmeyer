@@ -7,3 +7,4 @@ deeppink
 fuchsia
 indigo
 deeppink
+indigo

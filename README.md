@@ -18,7 +18,7 @@ The next function does not do anything as of now. Its called distinguishColor, a
 
 ### v1.0 Updates
 
-*Coming soon*
+Added in a class that takes the colors and converts them into what base color they are. 
 
 
 ## Developer
@@ -50,7 +50,41 @@ Your file contains: deeppink
 Your file contains: fuchsia
 Your file contains: indigo
 Your file contains: deeppink
+Your file contains: indigo
+
 deeppink is not a unique color.
+
+indigo is not a unique color.
+
+You have 0 'red' colors:
+
+You have 0 'orange' colors:
+
+You have 0 'yellow' colors:
+
+You have 0 'green' colors:
+
+You have 1 'cyan' colors:
+    cyan
+
+You have 1 'blue' colors:
+    dodgerblue
+
+You have 3 'purple' colors:
+    darkmagenta
+    fuchsia
+    indigo
+
+You have 1 'pink' colors:
+    deeppink
+
+You have 2 'white' colors:
+    aliceblue
+    azure
+
+You have 0 'gray' colors:
+
+You have 0 'brown' colors:
 
 ```
 
@@ -111,4 +145,4 @@ vector <string> openFile ( string ); - This function opens the file that the use
 
 ### Classes
 
-*Coming in version 1.0*
+The class is called "colorFunctions", and it takes the files that we opened and does multiple things with it. It converts the colors from their names into what basic color they are in order to group and establish what would be problematic.
