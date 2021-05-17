@@ -77,8 +77,6 @@ class colorFunctions{
     
     void convertColors(vector <string>);
 
-    void display();
-
 };
 
 #endif

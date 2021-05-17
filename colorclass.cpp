@@ -415,13 +415,3 @@ void colorFunctions::convertColors(vector <string> colors) {
   }
 
 }
-
-/*void colorFunctions::display() {
-
-  for (int i = 0; i < colorsConverted.size(); i ++ ) {
-
-    cout << colorsConverted[i] << endl;
-
-  }
-
-}*/

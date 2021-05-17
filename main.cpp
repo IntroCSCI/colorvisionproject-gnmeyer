@@ -9,7 +9,6 @@ using namespace std;
 //After identifying all the colors in the file, find how many of them are unique colors and/or compare the colors to determine how hard they will be to distinguish from each other
 
 void uniqueColor ( vector <string> &);
-void distinguishColor ( vector <string> );
 vector <string> openFile ( string );
 
 int main()
@@ -19,7 +18,7 @@ int main()
 
   vector <string> FileColors;
   string filename;
-  //bool isUnique;
+  
   
   cout << "What file do you want to open?" << endl;
   cin >> filename;
@@ -89,7 +88,4 @@ void uniqueColor ( vector <string> & Unique ) {
 
 }
   
-void distinguishColor ( vector <string> Distinguish ) {
-  //
-}
-   
+ 
